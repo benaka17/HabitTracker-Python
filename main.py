@@ -10,9 +10,9 @@ https://pixe.la/v1/users/alexanderb/graphs/graph1.html
 pixela_endpoint = "https://pixe.la/v1/users"
 
 # Constants
-USERNAME = "alexanderb"
-TOKEN = "aldkgknvi879873qfmn3"
-GRAPH_ID = "graph1"
+USERNAME = "YOUR USERNAME"
+TOKEN = "YOUR TOKEN"
+GRAPH_ID = "YOUR GRAPH ID"
 
 # Set up the user
 userParams = {
